@@ -1,3 +1,13 @@
+<div align="center">
+
+[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=WESLEY%20GABRIEL&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)](https://capsule-render.vercel.app)
+
+[![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=2C84C0&center=true&vCenter=true&width=700&lines=Back-End+Developer+%F0%9F%92%BB;Estudante+de+Python+%26+Automa%C3%A7%C3%A3o;Consist%C3%AAncia+%3E+perfei%C3%A7%C3%A3o+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 ```
 ╭──────────────────────────────╮
 │      PYTHON DEV SYSTEM       │
@@ -18,14 +28,15 @@ STATUS: ONLINE 🚀
 
 ## 👋 Sobre mim
 
-```
-name: "Wesley Gabriel",
+```js
+const Wesley = {
+  name: "Wesley Gabriel",
 
-role: "Back-End Developer",
+  role: "Back-End Developer",
 
-location: "Recife, Brazil 🇧🇷",
+  location: "Recife, Brazil 🇧🇷",
 
-stack: {
+  stack: {
     frontend: [
       "React",
       "JavaScript",
@@ -43,13 +54,13 @@ stack: {
     database: [
       "MySQL",
     ]
- },
+  },
 
- tools: [
-   "Git",
-   "GitHub",
-   "VS Code"
- ],
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code"
+  ],
   mentalidade: "Consistência > perfeição 💻"
 };
 ```
