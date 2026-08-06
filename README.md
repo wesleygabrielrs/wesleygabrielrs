@@ -98,6 +98,8 @@ Never stop learning == rumo à primeira vaga 🚀
 ![Stats](https://github-readme-stats.vercel.app/api?username=wesleygabrielrs&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygabrielrs&layout=compact&theme=tokyonight&hide_border=true)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wesleygabrielrs&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 🌎 Contato
