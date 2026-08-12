@@ -66,11 +66,10 @@ const Wesley = {
 ```
 
 ---
-<div align="center">
+
 ## 🛠️ Tecnologias
 
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="Python, MySql, Git, GitHub e VS Code" />
+img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="Python, MySql, Git, GitHub e VS Code" />
 
 ---
 
