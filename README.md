@@ -69,11 +69,8 @@ const Wesley = {
 
 ## ⚡ Tecnologias
 
-![Python]<img src="https://skillicons.dev/icons?i=python" alt="Python" />
-![Git] <img src="https://skillicons.dev/icons?i=Git" alt="Git" />
-![GitHub]<img src="https://skillicons.dev/icons?i=GitHub" alt="Github" />
-![VSCode]<img src="https://skillicons.dev/icons?i=VScode" alt="VScode" />
-![CSharp]<img src="https://skillicons.dev/icons?i=CSharp" alt="CSharp" />
+!<img src="https://skillicons.dev/icons?i=python,Git,GitHub,VScode,CSharp" alt="Python,Git,VScode,CSharp" />
+
 
 ---
 
