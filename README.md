@@ -69,11 +69,11 @@ const Wesley = {
 
 ## ⚡ Tecnologias
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![CSharp](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+![Python]<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+![Git] <img src="https://skillicons.dev/icons?i=Git" alt="Git" />
+![GitHub]<img src="https://skillicons.dev/icons?i=GitHub" alt="Github" />
+![VSCode]<img src="https://skillicons.dev/icons?i=VScode" alt="VScode" />
+![CSharp]<img src="https://skillicons.dev/icons?i=CSharp" alt="CSharp" />
 
 ---
 
