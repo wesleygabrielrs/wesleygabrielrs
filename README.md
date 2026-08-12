@@ -73,7 +73,6 @@ const Wesley = {
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="Python, MySql, Git, GitHub e VS Code" />
 
-<br>
 ---
 
 ## 🧠 Jornada atual
