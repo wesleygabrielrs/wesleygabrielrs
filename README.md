@@ -76,7 +76,7 @@ const Wesley = {
 
 <br><br>
 ---
-
+<div>
 ## 🧠 Jornada atual
 
 ```
